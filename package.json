@@ -5,7 +5,8 @@
   "main": "serv.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon serv.js"
+    "start":"node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "Aliaxandr Shabanovich",
   "license": "ISC",
